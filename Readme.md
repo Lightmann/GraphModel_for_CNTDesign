@@ -1,4 +1,4 @@
-Here is the code for `Machine learning and high-throughput robust design of P3HT-CNT composite thin films for high electrical conductivity`.
+Here is the code for the paper: `Multi-Fidelity High-Throughput Optimization of Electrical Conductivity in P3HT-CNT Composites`.
 
 ## CNT_Code
 

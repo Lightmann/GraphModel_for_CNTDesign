@@ -50,3 +50,13 @@ TaskB: evaluate the scores for graphs from `C` to `Y` (`C` is the only input)
 TaskC: evaluate the scores for graphs from multiple nodes (such as `C,R`) to `Y`
 
 
+
+#### 4. The scores are (manually) gathered in `scores-final-0.3sigma-backA.xlsx`
+
+The highlighted columns are mainly considered for final model collection.
+
+
+
+#### 5. TaskD-BO convergence -- by artificial ground-truth
+
+Verify the BO convergence.
