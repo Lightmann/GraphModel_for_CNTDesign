@@ -4,10 +4,12 @@ Here is the code for the paper: `Multi-Fidelity High-Throughput Optimization of 
 
 Folder for the main code.
 
-## CNT_Demo
-
-A demo to run the code.
 
 ## CNT_Tasks
 
-Scripts and results for evaluating scores of graph models.
+Scripts and results for evaluating scores of graph models, and scripts to reproduce the reported results.
+
+
+## CNT_Demo
+
+Demo to use the code and the CNT dataset -- will be updated progressively.
